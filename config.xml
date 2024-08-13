@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="io.cordova.hellocordova" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Camera</name>
+    <description>Sample Apache Cordova App</description>
+    <author email="dev@cordova.apache.org" href="https://cordova.apache.org">
+        Apache Cordova Team
+    </author>
+    <content src="index.html" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+
+    <platform name="android">
+    <icon src="res/android/drawable-ldpi/icon.png" density="ldpi" />
+    <icon src="res/android/drawable-mdpi/icon.png" density="mdpi" />
+    <icon src="res/android/drawable-hdpi/icon.png" density="hdpi" />
+    <icon src="res/android/drawable-xhdpi/icon.png" density="xhdpi" />
+    <icon src="res/android/drawable-xxhdpi/icon.png" density="xxhdpi" />
+    <icon src="res/android/drawable-xxxhdpi/icon.png" density="xxxhdpi" />
+
+    <splash src="res/screen/android/splash/mdpi-land.png" density="land-mdpi"/>
+    <splash src="res/screen/android/splash/hdpi-land.png" density="land-hdpi"/>
+    <splash src="res/screen/android/splash/xhdpi-land.png" density="land-xhdpi"/>
+    <splash src="res/screen/android/splash/xxhdpi-land.png" density="land-xxhdpi"/>
+    <splash src="res/screen/android/splash/xxxhdpi-land.png" density="land-xxxhdpi"/>
+    <splash src="res/screen/android/splash/mdpi.png" density="port-mdpi"/>
+    <splash src="res/screen/android/splash/hdpi.png" density="port-hdpi"/>
+    <splash src="res/screen/android/splash/xhdpi.png" density="port-xhdpi"/>
+    <splash src="res/screen/android/splash/xxhdpi.png" density="port-xxhdpi"/>
+    <splash src="res/screen/android/splash/xxxhdpi.png" density="port-xxxhdpi"/>
+
+</platform>
+</widget>
